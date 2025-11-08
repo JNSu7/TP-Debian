@@ -12,5 +12,5 @@
 - proc.tar.gz
 - www_dir.tar.gz
 - backup_dir.tar.gz
-- var_part_aa
+- var_part_*
 
